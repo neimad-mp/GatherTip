@@ -1,0 +1,13 @@
+{
+  "Lua.runtime.version": "Lua 5.1",
+  "Lua.diagnostics.globals": [
+    "SlashCmdList","DEFAULT_CHAT_FRAME","CreateFrame","UIParent",
+    "WorldFrame","GameTooltip","UnitBuff","UnitDebuff","UnitMana",
+    "UnitHealth","UnitClass","UnitName","GetTime","CastSpellByName",
+    "GetSpellName","GetSpellCooldown","TargetNearestEnemy","AttackTarget",
+    "UseContainerItem","GetContainerItemInfo","GetContainerNumSlots",
+    "GetContainerItemLink","UIErrorsFrame","NUM_BAG_SLOTS",
+    "IsShiftKeyDown","SlashCmdList","GetNumMacros","CreateMacro",
+    "EditMacro","GetMacroInfo","GetMacroIndexByName"
+  ]
+}
