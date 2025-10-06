@@ -1,12 +1,11 @@
-# Gourmet
-Smart food/drink helper for Turtle/Vanilla 1.12.
+# GatherTip
+Adds <skill required> / <your skill> information to the minimap tooltip for Herb and Mine nodes.
 
 ## Install
-Copy the `Gourmet` folder to `World of Warcraft\Interface\AddOns\`.
+Copy the `GatherTip` folder to `World of Warcraft\Interface\AddOns\`.
 
 ## Use
-- `/gourmet eat` — best available food (or health pot/bandage in combat)
-- `/gourmet drink` — best drink (or mana pot in combat)
+No options to play around with or pretty gui's. It just works.
 
 ## License
 MIT
