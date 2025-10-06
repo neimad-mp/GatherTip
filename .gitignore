@@ -1,0 +1,9 @@
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build artifacts (if you package)
+dist/
+release/
