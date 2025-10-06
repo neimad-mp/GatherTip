@@ -1,5 +1,5 @@
 # GatherTip
-Adds <skill required> / <your skill> information to the minimap tooltip for Herb and Mine nodes.
+Adds (skill required) / (your skill) to the minimap tooltip for Herb and Mine nodes.
 
 ## Install
 Copy the `GatherTip` folder to `World of Warcraft\Interface\AddOns\`.
